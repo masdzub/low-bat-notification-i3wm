@@ -8,4 +8,4 @@ Line 11: for greater accuracy, the percentage is calculated based on the last fu
 Line 17: a notification is shown using notify-send (ships with libnotify-bin on Debian)
 I run the script once every minute with Cron:
 
-```* * * * * bash /home/agorf/work/dotfiles/scripts/batmon.sh```
+```* * * * * bash /home/masdzub/.config/batinfo.sh```
